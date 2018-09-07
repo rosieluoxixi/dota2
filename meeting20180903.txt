@@ -36,10 +36,10 @@ Meeting Minutes 20180904 (feel free to edit)
 Week 1: present - 9 Sep: 
 Draft prediction
 Week 2: 10Sep - 16Sep
-Week 3: 17Sep - 23Sep
+Week 3: 17Sep - 23Sep(Luo Xi's exam week)
 	By the end of 3rd week, get a rough outline of the model.
 	Detail parameters to be fine tuned in later stage
-Week 4: 24 Sep - 30 Sep (Luoxi, YX, ZH exam week)
+Week 4: 24 Sep - 30 Sep ( YX, ZH exam week)
 Week 5: 1 Oct - 7 Oct
 Week 6: 8 Oct - 14 Oct (Target to finish within the week)
 Deadline: 15 Oct
